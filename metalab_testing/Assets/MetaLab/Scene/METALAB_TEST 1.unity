@@ -170,6 +170,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceAvatarOrientation: 1
+--- !u!1001 &142024857
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1890409936}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.7401752
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.1984725
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2375097
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0567fde00ba4fc244b638c9a919098f3,
+        type: 3}
+      propertyPath: m_Name
+      value: 230317_M-Pavillon_1_Ceiling Lights
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0567fde00ba4fc244b638c9a919098f3, type: 3}
+--- !u!4 &142024858 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0567fde00ba4fc244b638c9a919098f3,
+    type: 3}
+  m_PrefabInstance: {fileID: 142024857}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &194100676
 GameObject:
   m_ObjectHideFlags: 0
@@ -2758,6 +2833,7 @@ Transform:
   - {fileID: 962842050}
   - {fileID: 1810144797}
   - {fileID: 1380418085}
+  - {fileID: 142024858}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
